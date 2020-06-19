@@ -8,22 +8,22 @@ title: "Our Sunday Supplication"
 description: > # this means to ignore newlines until "email:"
    Our Sunday Supplication
 
-email: pcallah1@emporia.edu
+email:
 #blog logo
 logo: "/assets/images/chalice.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/francesco-alberti-pvbPL1CALNk-unsplash.jpg"
+cover: "{{ site.baseurl }}/assets/images/francesco-alberti-pvbPL1CALNk-unsplash.jpg"
 
 name: 'Patrick Callahan'
 author: 'Patrick Callahan'
-author_image: "/assets/images/author.jpg"
+author_image: "{{ site.baseurl }}/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://SchoolOfHope.github.io" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://patrickrcallahan/OurSundaySupplication" # the base hostname & protocol for your site
+baseurl: "/OurSundaySupplication"
 #used to display twitter cards
 twitter_handle: '@P_RoryCallahan'
 
