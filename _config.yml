@@ -7,7 +7,7 @@ gems:
 title: "Our Sunday Supplication"
 description: > # this means to ignore newlines until "email:"
    Our Sunday Supplication
-
+google_analytics: "UA-169956091-1"
 email:
 #blog logo
 logo: "/assets/images/chalice.jpg"
